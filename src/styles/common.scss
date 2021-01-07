@@ -1,0 +1,22 @@
+.info-container{
+  padding: 0 15px;
+  color: #141614;
+  font-size: 15px;
+}
+.title{
+  padding: 15px 0;
+}
+.infp-main{
+  background-color: #fff;
+  padding: 0 12px;
+}
+.infp-main > .van-cell-group > .van-cell{
+  padding: 2px 0;
+}
+.infp-main .van-cell::after{
+  border-color: #E8E8E8;
+}
+.infp-main .van-cell .icon-kong{
+ width: 16px;
+ display:inline-block;
+}
